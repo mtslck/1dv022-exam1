@@ -1,0 +1,14 @@
+/* TEAM */
+Your title: Mats Loock.
+Site: mats.loock@lnu.se, link to a contact form, etc.
+Location: Kalmar, Sweden.
+
+/* THANKS */
+Johan Leitet
+John Häggerud
+
+/* SITE */
+Last update: 2015/11/09
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: vagrant, jekyll, webstorm

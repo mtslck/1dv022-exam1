@@ -1,0 +1,11 @@
+# Site settings
+title: Examination 1
+email: mats.loock@lnu.se
+description: > # In this assignment you are supposed to produce a web site that will be the front for your published assignments in this course and possibly in courses to come. The source code together with vagrant files etc. will be version controlled using git and pushed to the private <YOUR USERNAME>-examination-1-repo in 1dv022. However, the published site will be made public using your github-account and github-pages.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: ""
+github_username:  mtslck
+
+# Build settings
+markdown: kramdown
